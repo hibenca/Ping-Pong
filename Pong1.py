@@ -1,6 +1,6 @@
 # Corey's first ever pong game
 # Let the learning begin!
-# Edit to test Git: Commit -> push -> madness -> cmd push
+# Edit to test Git: Commit -> push -> madness -> cmd push testerz
 
 import turtle
 
